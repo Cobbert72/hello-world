@@ -1,2 +1,2 @@
 # hello-world
-This is the first project to learn how to use GitHub 
+My name is robert and this is where I will be keeping track of all the project I start and hopefully someday finish!
